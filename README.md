@@ -1,3 +1,5 @@
+My video link- https://drive.google.com/file/d/1nxe0ygjCiCFTs_YqUfTkGjrDmDvLZgOF/view?usp=sharing
+
 # Consumer Behavior Analysis: Uncovering Insights with KMeans Clustering
 
 This project explores customer segmentation using the KMeans clustering algorithm to identify distinct behavioral patterns, enabling businesses to design targeted marketing and retention strategies.
